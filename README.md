@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/raunakoncloud" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ronin" target="_blank">
+  <a href="https://www.linkedin.com/in/raunak-mali-2004clouddev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@gmail.com">
