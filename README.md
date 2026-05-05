@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ronin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+DevOps+Enthusiast;AWS+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes;Building+Reliable+Infrastructure+%F0%9F%9A%80;Black+Belt+%7C+Calisthenics+%7C+Chess+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%7C+DevOps+Engineer;AWS+%E2%80%A2+Docker+%E2%80%A2+Terraform+%E2%80%A2+Kubernetes;Building+Reliable+Infrastructure+%F0%9F%9A%80;Black+Belt+%7C+Calisthenics+%7C+Chess+%E2%99%9F%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
