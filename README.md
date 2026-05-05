@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🌍 Based in **Thane, Maharashtra, India**
-- 💼 Cloud Engineer Intern @ **CoreXtech Pvt Ltd**
+- 💼 DevOps Engineer Intern @ **Brainfog Agency LLP**
 - 🚀 Currently building: **Self-Healing Infrastructure** with Prometheus + Alertmanager + Ansible
 - 🧠 Currently learning: **Kubernetes (K8s)**, **Terraform advanced modules**, and **GitOps**
 - 🤝 Open to collaborating on: **DevOps tooling, cloud-native projects, open-source infrastructure**
